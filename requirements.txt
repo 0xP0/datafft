@@ -1,0 +1,9 @@
+# 支持CUDA 才安装
+# cupy-cuda12x>=12.0.0; platform_system=="Windows" or platform_system=="Linux" 
+# 根据CUDA版本安装
+# nvidia-cuda-runtime-cu12=12.6.*
+numpy
+pandas
+matplotlib
+nptdms
+watchdog
